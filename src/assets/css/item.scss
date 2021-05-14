@@ -1,0 +1,89 @@
+.item.theme-blue {
+  background-color: #bec7e7;
+  .item__header {
+    background-color: #d8def4;
+    h3 {
+      color: #1e41c1;
+    }
+  }
+  .item__text {
+    color: #1e41c1;
+    background-color: #d8def4;
+  }
+  .item__description {
+    color: #1e41c1;
+    background-color: #d8def4;
+  }
+}
+
+.item.theme-orange {
+  background-color: #f4c9b7;
+  .item__header {
+    background-color: #f4df86;
+    h3 {
+      color: #b64b1e;
+    }
+  }
+  .item__text {
+    color: #b64b1e;
+    background-color: #f4df86;
+  }
+  .item__description {
+    color: #b64b1e;
+    background-color: #f4df86;
+  }
+}
+
+.item.theme-purple {
+  background-color: #d0b7f4;
+  .item__header {
+    background-color: #ecdfff;
+    h3 {
+      color: #7852ae;
+    }
+  }
+  .item__text {
+    color: #7852ae;
+    background-color: #ecdfff;
+  }
+  .item__description {
+    color: #7852ae;
+    background-color: #ecdfff;
+  }
+}
+
+.item.theme-green {
+  background-color: #c3e3c1;
+  .item__header {
+    background-color: #e2f6e1;
+    h3 {
+      color: #5faf3b;
+    }
+  }
+  .item__text {
+    color: #5faf3b;
+    background-color: #e2f6e1;
+  }
+  .item__description {
+    color: #5faf3b;
+    background-color: #e2f6e1;
+  }
+}
+
+.item.theme-black {
+  background-color: #5c5c5c;
+  .item__header {
+    background-color: #333;
+    h3 {
+      color: #ffffff;
+    }
+  }
+  .item__text {
+    color: #ffffff;
+    background-color: #5c5c5c;
+  }
+  .item__description {
+    color: #ccc;
+    background-color: #5c5c5c;
+  }
+}
